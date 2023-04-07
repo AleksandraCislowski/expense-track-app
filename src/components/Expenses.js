@@ -15,7 +15,7 @@ function Expenses(props) {
         date={props.items[1].date}
       />
       <ExpenseItem
-        title={props.itemss[2].title}
+        title={props.items[2].title}
         amount={props.items[2].amount}
         date={props.items[2].date}
       />
